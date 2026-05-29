@@ -124,3 +124,4 @@ SORT launch-year DESC
 ---
 
 *See the [[Meta/Cross-Cutting Challenges]] note for analysis across all schemes.*
+| 17 | [[Sectors/17 Defence & Security|🛡️ Defence & Security]] | 3 | iDEX, ADITI, National Cybersecurity Mission |
